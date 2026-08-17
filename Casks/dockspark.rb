@@ -1,8 +1,8 @@
 cask "dockspark" do
-  version "0.0.8"
-  sha256 "05387e5b2e60750ae06b9d77b99d5ce609ecff73e9574492577c63d81ba94e8f"
+  version "0.0.9"
+  sha256 "0239a302de082a6ab2c06b66c9c4968e6233c3d8b5792969236bf467e6b2772e"
 
-  url "https://github.com/DockSpark/DockSpark/releases/download/v#{version}/DockSpark-#{version}.zip"
+  url "https://github.com/DockSpark/DockSpark/releases/download/v#{version}/DockSpark-#{version}.dmg"
   name "DockSpark"
   desc "Switch browser profiles directly from the Dock"
   homepage "https://dockspark.app/"
