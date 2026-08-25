@@ -1,9 +1,11 @@
 # DockSpark Homebrew Tap
 
-Install [DockSpark](https://dockspark.app/) with Homebrew:
+Trust the DockSpark cask, then install [DockSpark](https://dockspark.app/)
+with Homebrew (copy and run both commands at once):
 
 ```sh
-brew install --cask dockspark/tap/dockspark
+brew trust --cask dockspark/tap/dockspark && \
+  brew install --cask dockspark/tap/dockspark
 ```
 
 Upgrade DockSpark with:
