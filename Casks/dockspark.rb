@@ -1,6 +1,6 @@
 cask "dockspark" do
-  version "0.4.0"
-  sha256 "8f3e05658ee8674494d44999e4e1ba3a4ad7ba67599eca02e1b0de9a6d3688ff"
+  version "0.5.0"
+  sha256 "90c0f9369d67eb33e6939b1cac008ec70277f7c176c0f2a1aa0e50fb08e85eff"
 
   url "https://github.com/DockSpark/DockSpark/releases/download/v#{version}/DockSpark-#{version}.dmg"
   name "DockSpark"
